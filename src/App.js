@@ -2,7 +2,6 @@ import Dashboard from './components/Dashboard';
 import NavigationBar from './components/NavigationBar';
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import PageNotFound from './components/PageNotFound';
-import { useEffect } from 'react';
 
 function App() {
   return (
